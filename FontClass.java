@@ -1,5 +1,3 @@
-package com.stop.project.font;
-
 import java.awt.*;
 import javax.swing.*;
 
